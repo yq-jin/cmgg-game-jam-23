@@ -1,0 +1,2 @@
+# CheckerSweeper
+repository for game
