@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class CodeBoard : MonoBehaviour
+public class ChessBoard : MonoBehaviour
 {
     //1 = white
     //2 = black
